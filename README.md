@@ -2,8 +2,8 @@
 
 *Pour le bon fonctionnement du jeu : Télécharger le fichier TicTacToe.py et morpion.ico !*
 
-Nombre de joueur : 2 joueurs requis (humains)
-Règle : Le premier joueur dessine son symbole sur une case, ensuite c'est au tour de l'autre joueur de dessiner son symbole sur une case qui est vide.
+*Nombre de joueur : 2 joueurs requis (humains)
+*Règle : Le premier joueur dessine son symbole sur une case, ensuite c'est au tour de l'autre joueur de dessiner son symbole sur une case qui est vide.
 Le but du jeu est de réussir à aligner ses trois symboles, on remporte alors la partie. Si toutes les cases sont cochées et qu’il n’y a pas trois symboles alignés alors la partie se termine sur une égalité.
 
 [Screenshot du jeu](https://user-images.githubusercontent.com/72768800/120205801-a8b85600-c22a-11eb-82c3-d932b47248e8.png)
