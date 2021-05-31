@@ -22,3 +22,5 @@ Le but du jeu est de réussir à aligner ses trois symboles, on remporte alors
 * Qu’est ce qu’il pourrait faire disparaître le besoin ? : Ne plus jouer aux morpions car le jeu est répétitif est très court. / Que Python a une mise à jour et qu’il ne soit plus compatible avec le programme en question.
 
 [Diagramme pieuvre 2](https://user-images.githubusercontent.com/72768800/120206638-bde1b480-c22b-11eb-902d-8d269df70925.png)
+
+!(https://user-images.githubusercontent.com/72768800/120207982-5298e200-c22d-11eb-8a5c-75a5a5fee3b2.png)
