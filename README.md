@@ -23,4 +23,4 @@ Le but du jeu est de réussir à aligner ses trois symboles, on remporte alors
 
 [Diagramme pieuvre 2](https://user-images.githubusercontent.com/72768800/120206638-bde1b480-c22b-11eb-902d-8d269df70925.png)
 
-!(https://user-images.githubusercontent.com/72768800/120207982-5298e200-c22d-11eb-8a5c-75a5a5fee3b2.png)
+![image](https://user-images.githubusercontent.com/72768800/120207982-5298e200-c22d-11eb-8a5c-75a5a5fee3b2.png)
