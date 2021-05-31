@@ -6,7 +6,6 @@ Le but du jeu est de réussir à aligner ses trois symboles, on remporte alors
 
 ![image](https://user-images.githubusercontent.com/72768800/120205801-a8b85600-c22a-11eb-82c3-d932b47248e8.png)
 
-
 Expression de besoin :
 	A qui le produit rend service ? : Aux joueurs.
 	Sur quoi le produit agit-il ? : Programme Python sur un Ordinateur.
