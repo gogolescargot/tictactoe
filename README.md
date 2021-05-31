@@ -8,8 +8,11 @@ Le but du jeu est de réussir à aligner ses trois symboles, on remporte alors
 
 Expression de besoin :
 	A qui le produit rend service ? : Aux joueurs.
+	
 	Sur quoi le produit agit-il ? : Programme Python sur un Ordinateur.
+	
 	Dans quel but ? : Divertir et s’amuser, améliorer le joueur,
+	
 développer les facultés mentales, les capacités de réflexions et de stratégies.
 
 Validation du besoin
