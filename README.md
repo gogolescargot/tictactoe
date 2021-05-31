@@ -1,4 +1,4 @@
-# Projet NSI : Le Tic Tac Toe !
+### Projet NSI : Le Tic Tac Toe !
 
 *Pour le bon fonctionnement du jeu : Télécharger le fichier Tic Tac Toe.py et morpion.ico !*
 
