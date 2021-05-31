@@ -1,6 +1,6 @@
 # Projet NSI : Le Tic Tac Toe !
 
-*Pour le bon fonctionnement du jeu : Télécharger le fichier Tic Tac Toe.py et morpion.ico !*
+*Pour le bon fonctionnement du jeu : Télécharger le fichier Tic Tac Toe.py et morpion.ico ! / 33.4 Ko*
 
 ### Les règles du jeu :
 * Nombre de joueur : 2 joueurs requis (humains)
