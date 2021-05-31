@@ -12,6 +12,7 @@ Le but du jeu est de réussir à aligner ses trois symboles, on remporte alors
 * A qui le produit rend service ? : Aux joueurs
 * Sur quoi le produit agit-il ? : Programme Python sur un Ordinateur.
 * Dans quel but ? : Divertir et s’amuser, améliorer le joueur, développer les facultés mentales, les capacités de réflexions et de stratégies.
+
 [Diagramme pieuvre](https://user-images.githubusercontent.com/72768800/120207491-cbe40500-c22c-11eb-95ab-b476f402df62.png)
 
 # Validation du besoin
